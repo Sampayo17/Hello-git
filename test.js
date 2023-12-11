@@ -1,3 +1,3 @@
 function hellogit(){
-    return console.log("hola");
+    return console.log("New hello git");
 }
