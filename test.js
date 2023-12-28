@@ -1,3 +1,3 @@
 function hellogit(){
-    return console.log("New hello git");
+    return console.log("New hello git para subir a github");
 }
